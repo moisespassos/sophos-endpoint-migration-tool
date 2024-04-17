@@ -51,9 +51,4 @@ If none of these options have been passed on the command line, it will run the m
 
 After that, you'll be able to get status for each endpoint migration.
 
-## How to provide feedback or reporting bugs?
-
-You can e-mail me at rafael (.) foster at sophos (.) com.
-
-Enjoy it!
 
