@@ -1,6 +1,3 @@
-Versão em português: [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/rafaelfoster/sophos_central_migration_tool/blob/main/README.pt-br.md)
-
-
 ## What is Sophos Central Migration Tool?
 
 A tool created for users easily consume Sophos migration API: https://developer.sophos.com/docs/endpoint-v1/1/routes/migrations/get  
