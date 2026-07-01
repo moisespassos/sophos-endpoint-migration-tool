@@ -10,7 +10,7 @@ Be sure you have at least Python 3.8 and PIP (https://pypi.org/project/pip/) ins
 
 After downloading this tool, use pip for installing dependencies using the following command:
 
-`pip3 install -r requirements.txt`
+`python -m pip install -r requirements.txt or pip3 install -r requirements.txt`
 
 ## How do I use Sophos Central Migration Tool?
 
