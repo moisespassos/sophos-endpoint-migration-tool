@@ -6,11 +6,15 @@ A tool created for users easily consume Sophos migration API: https://developer.
 
 ## How do I install Sophos Central Migration Tool?
 
-Be sure you have at least Python 3.8 and PIP (https://pypi.org/project/pip/) installed.
+Be sure you have at least Python 3.8 or higher and PIP (https://pypi.org/project/pip/) installed.
 
 After downloading this tool, use pip for installing dependencies using the following command:
 
-`python -m pip install -r requirements.txt or pip3 install -r requirements.txt`
+python -m pip install -r requirements.txt 
+
+or
+
+pip3 install -r requirements.txt`
 
 ## How do I use Sophos Central Migration Tool?
 
